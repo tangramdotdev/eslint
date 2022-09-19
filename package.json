@@ -1,0 +1,8 @@
+{
+	"name": "@tangramdotdev/eslint",
+	"private": true,
+	"workspaces": [
+		"packages/eslint-config",
+		"packages/eslint-plugin"
+	]
+}

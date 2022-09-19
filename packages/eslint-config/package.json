@@ -1,0 +1,20 @@
+{
+	"dependencies": {
+		"@rushstack/eslint-patch": "^1.2.0",
+		"@tangramdotdev/eslint-plugin": "^0.1.0",
+		"@typescript-eslint/eslint-plugin": "^5.37.0",
+		"@typescript-eslint/parser": "^5.37.0",
+		"eslint-config-next": "^12.3.0",
+		"eslint-plugin-import": "^2.26.0",
+		"eslint-plugin-jsonc": "^2.4.0",
+		"eslint-plugin-mdx": "^2.0.5",
+		"eslint-plugin-react": "^7.31.8",
+		"eslint-plugin-react-hooks": "^4.6.0"
+	},
+	"license": "MIT",
+	"name": "@tangramdotdev/eslint-config",
+	"peerDependencies": {
+		"eslint": "^8"
+	},
+	"version": "0.1.0"
+}
