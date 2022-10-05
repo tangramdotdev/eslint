@@ -45,9 +45,6 @@ module.exports = {
 		"no-restricted-syntax": [
 			"error",
 			"BinaryExpression[operator='in']",
-			"ClassDeclaration",
-			"FunctionDeclaration",
-			"FunctionExpression",
 			"WithStatement",
 		],
 		"object-shorthand": "error",
